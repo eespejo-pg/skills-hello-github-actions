@@ -1,9 +1,8 @@
 <header>
-:smile:_ :smile:_
 # Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
-
+:smile:_ :smile:_
 </header>
 
 ## Step 5: Trigger the workflow
